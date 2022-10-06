@@ -19,7 +19,7 @@
             students.Add(new Student("Abe", 33));
             students.Add(new Student("Curtis", 10));
 
-            Console.WriteLine("I suck");
+            Console.WriteLine("I suck!!!!");
         }
     }
 }
